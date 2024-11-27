@@ -12,3 +12,6 @@ so, quick rundown:
 ```
 select register("username", "password", "charname", "email");
 ```
+
+client:
+https://mega.nz/file/1uxQxAJb#MIYNMGhQahECU3WdyveG4W5DzBemeQCEMPpy1lmNdxo
